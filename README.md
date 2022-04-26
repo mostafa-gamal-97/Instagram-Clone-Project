@@ -5,6 +5,7 @@
 ## Table of Contents
 
 * [Motivation](#motivation)
+* [Project Tree](#project-tree)
 * [Challenges](#challenges)
 * [Required Packages](#required-packages)
 * [Acknowledgements](#acknowledgements)
@@ -13,6 +14,19 @@
 ## Motivation
 
 Consolidate learnt sql skills in one project and solve challenging queries.
+
+## Project Tree
+
+.
+
+├── IG_CLONE.sql   -->   file of design schema and tables and loading values
+
+├── IG_clone_challenges.sql   -->   Challenging project queries 
+
+├── instagram_clone.sql   -->   a dump file that contains the instagram tables and records.
+
+└── README.md 
+
 
 ## Challenges
 
